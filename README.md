@@ -7,12 +7,7 @@ A React Native task management app for gig workers. Create, edit, and organize t
 - **React Native CLI** (JavaScript)
 - **Firebase** — Auth (email/password), Firestore
 - **React Navigation v6** — Stack navigator
-- **Zustand** — State management
-- **date-fns** — Date formatting
-- **react-native-vector-icons** — MaterialIcons, MaterialCommunityIcons
-- **react-native-toast-message** — Toast notifications
-- **@react-native-community/datetimepicker** — Date picker
-- **react-native-safe-area-context** — Safe area handling
+
 
 ## Setup
 
