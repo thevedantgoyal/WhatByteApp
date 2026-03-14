@@ -2,6 +2,13 @@
 
 A React Native task management app for gig workers. Create, edit, and organize tasks with due dates and priorities. Syncs with Firebase Firestore.
 
+## Screenshot
+<img width="400" height="871" alt="Image" src="https://github.com/user-attachments/assets/b209fc58-14ea-438e-8cb6-f490b32bec4d" />
+<img width="399" height="862" alt="Image" src="https://github.com/user-attachments/assets/f67a1a87-c0aa-4414-8c61-9f8e7e74614c" />
+<img width="400" height="839" alt="Image" src="https://github.com/user-attachments/assets/e4c33b1a-d5a4-447e-bf66-8456ba420c9d" />
+<img width="398" height="884" alt="Image" src="https://github.com/user-attachments/assets/ad8a821d-cb87-4bb5-bf57-90b2093a7ff7" />
+<img width="400" height="846" alt="Image" src="https://github.com/user-attachments/assets/27ba2fc6-9ded-4e5b-afa1-dd2e480e9f99" />
+
 ## Tech Stack
 
 - **React Native CLI** (JavaScript)
